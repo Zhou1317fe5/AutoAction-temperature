@@ -17,6 +17,9 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ada5461a46b041839e536e2aee706e6d.png#pic_center)
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/398fe39b187e44feaa0c773326d58603.png#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2d647c1814444fc3b70a42fc069fb7e2.png#pic_center)
 
 4.点击打开autoclick.py文件，并修改信息。
 
